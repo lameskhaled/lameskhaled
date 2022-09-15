@@ -33,7 +33,8 @@
 - :man_technologist: Bazaar Project Lead Intern at Information and Communcation Technology (ITI) Foundation
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-- :woman_student: Certificate: MEARN stack from Information and Communcation Technology (ITI) Certificate
+- :woman_student: Early Detection of Covid-19 Using Medical Imaging Analysis and Machine Learning
+- :scroll: Certificate: MEARN stack from Information and Communcation Technology (ITI) Certificate
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
