@@ -41,4 +41,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-lameskhaled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lames-khaled)](https://www.linkedin.com/in/lames-khaled)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-lameskhaled&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lameskhaled)](https://git.io/streak-stats)
