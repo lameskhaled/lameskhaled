@@ -153,11 +153,12 @@ flowchart LR
 ```
 
 ---
+<br>
 
 ### Users shouldn’t have to understand the architecture.
 ### **They should feel the result.**
-
 <br>
+
 
 | 🔍 **THINK** | ⚙️ **BUILD** | 🚀 **DELIVER** |
 |:---:|:---:|:---:|
@@ -174,6 +175,8 @@ flowchart LR
 
 ## 02 · ENGINEERING MINDSET
 
+
+
 <div align="center">
 
 ### ⚙️ ENGINEERING MINDSET
@@ -186,7 +189,8 @@ flowchart LR
 Understand the problem · Simplify the complexity · Build with intent ·
 Validate the result · Improve continuously
 </sub>
-<br>
+
+</div>
 
 
 > **Build less. Think more. Ship better.**
