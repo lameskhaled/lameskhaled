@@ -35,7 +35,7 @@ I turn complex processes into systems that are **clearer, faster, more reliable 
 <br><br>
 
 <img width="900" src="./assets/focus-strip-stable.svg" alt="Focus areas"/>
-
+ 
 </div>
 
 <br>
