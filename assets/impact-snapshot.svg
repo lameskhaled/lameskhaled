@@ -1,0 +1,59 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360">
+    <stop stop-color="#040515"/><stop offset=".55" stop-color="#18144E"/><stop offset="1" stop-color="#282179"/>
+  </linearGradient>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop stop-color="#282179"/><stop offset=".45" stop-color="#4636A3"/><stop offset=".78" stop-color="#7450CA"/><stop offset="1" stop-color="#B67CDA"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+
+<rect width="1200" height="360" rx="26" fill="url(#bg)" stroke="#4636A3" stroke-opacity=".7"/>
+
+<text x="48" y="52" fill="#F7F6FA" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">
+IMPACT SNAPSHOT
+</text>
+<text x="48" y="78" fill="#B67CDA" font-family="Consolas,monospace" font-size="12">
+delivery · ownership · reliability · speed
+</text>
+
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <g transform="translate(48 118)">
+    <rect width="252" height="174" rx="22" fill="#0A0A2A" stroke="#4636A3"/>
+    <text x="126" y="63" fill="#F7F6FA" font-size="38" font-weight="800">150+</text>
+    <text x="126" y="94" fill="#B67CDA" font-size="13" font-weight="700">SERVICE TICKETS</text>
+    <text x="126" y="121" fill="#D7D2E8" font-size="12">delivered across managed</text>
+    <text x="126" y="140" fill="#D7D2E8" font-size="12">service environments</text>
+  </g>
+
+  <g transform="translate(332 118)">
+    <rect width="252" height="174" rx="22" fill="#0A0A2A" stroke="#7450CA"/>
+    <text x="126" y="63" fill="#F7F6FA" font-size="38" font-weight="800">100%</text>
+    <text x="126" y="94" fill="#B67CDA" font-size="13" font-weight="700">SLA PERFORMANCE</text>
+    <text x="126" y="121" fill="#D7D2E8" font-size="12">while owning complex</text>
+    <text x="126" y="140" fill="#D7D2E8" font-size="12">client support work</text>
+  </g>
+
+  <g transform="translate(616 118)">
+    <rect width="252" height="174" rx="22" fill="#0A0A2A" stroke="#B67CDA"/>
+    <text x="126" y="63" fill="#F7F6FA" font-size="38" font-weight="800">9 DAYS</text>
+    <text x="126" y="94" fill="#B67CDA" font-size="13" font-weight="700">MAJOR CR DELIVERY</text>
+    <text x="126" y="121" fill="#D7D2E8" font-size="12">from scoping to</text>
+    <text x="126" y="140" fill="#D7D2E8" font-size="12">production-ready outcome</text>
+  </g>
+
+  <g transform="translate(900 118)">
+    <rect width="252" height="174" rx="22" fill="#0A0A2A" stroke="#4636A3"/>
+    <text x="126" y="63" fill="#F7F6FA" font-size="38" font-weight="800">3+</text>
+    <text x="126" y="94" fill="#B67CDA" font-size="13" font-weight="700">PLATFORMS</text>
+    <text x="126" y="121" fill="#D7D2E8" font-size="12">Power Platform · UiPath</text>
+    <text x="126" y="140" fill="#D7D2E8" font-size="12">Copilot Studio</text>
+  </g>
+</g>
+
+<rect x="390" y="324" width="420" height="3" rx="1.5" fill="url(#g)" filter="url(#glow)">
+  <animate attributeName="x" values="390;460;390" dur="5s" repeatCount="indefinite"/>
+  <animate attributeName="width" values="420;280;420" dur="5s" repeatCount="indefinite"/>
+</rect>
+</svg>
