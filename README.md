@@ -8,21 +8,20 @@
 
 <br>
 
-<a href="https://lameskhaled.github.io/Lamees-khaled-Portifolio/">
-  <img width="220" src="./assets/portfolio-button-stable.svg" alt="View portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/lames-khaled">
-  <img width="220" src="./assets/linkedin-button-stable.svg" alt="Connect on LinkedIn"/>
-</a>
 
-<br><br>
 
-<img width="900" src="./assets/focus-strip-stable.svg" alt="Focus areas"/>
-
-</div>
-
-<br>
+<p align="center">
+  <a href="https://lameskhaled.github.io/Lamees-khaled-Portifolio/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/View_Portfolio-8A4CFF?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+<img
+      src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
 
 <div align="center">
 
@@ -33,17 +32,20 @@ I am a **Senior Intelligent Automation Consultant** working across **AI, automat
 I turn complex processes into systems that are **clearer, faster, more reliable and easier to scale** — combining technical depth with product thinking, ownership and a strong bias toward practical outcomes.
 
 </div>
+<br><br>
+
+<img width="900" src="./assets/focus-strip-stable.svg" alt="Focus areas"/>
+
+</div>
+
+<br>
+
 
 <br>
 
 <div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
 
 ## Impact
-
-<div align="center">
-<img width="100%" src="./assets/impact-snapshot.svg" alt="Impact snapshot"/>
-</div>
-
 <br>
 
 - Delivered and supported **150+ managed-service tickets** across complex client environments.
@@ -53,14 +55,15 @@ I turn complex processes into systems that are **clearer, faster, more reliable 
 - Comfortable owning work end-to-end: **scope → design → build → test → deploy → support → improve**.
 
 <br>
+<div align="center">
+<img width="100%" src="./assets/impact-snapshot.svg" alt="Impact snapshot"/>
+</div>
+
+
 
 <div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
 
 ## What I Build
-
-<div align="center">
-<img width="100%" src="./assets/system-map-banner-theme.svg" alt="Animated system map"/>
-</div>
 
 <br>
 
@@ -106,13 +109,14 @@ Built and supported automation solutions using **UiPath, Power Automate, APIs, S
 
 <br><br>
 
-<img width="1000" src="./assets/tech-stack-stable.svg" alt="Engineering stack"/>
-
+🟣 Automation
+🟪 Power Platform
+🟡 Enterprise
+🩵 Cloud
+🩷 Integrations
+🤖 AI
+📊 Monitoring
 <br><br>
-
-**Power Platform** · **Power Apps** · **Power Automate** · **Dataverse** · **Copilot Studio**  
-**UiPath** · **Azure OpenAI** · **REST APIs** · **SAP** · **AWS** · **Azure**  
-**JavaScript** · **TypeScript** · **Node.js** · **React** · **Python**
 
 </div>
 
@@ -122,9 +126,44 @@ Built and supported automation solutions using **UiPath, Power Automate, APIs, S
 
 ## How I Work
 
-<div align="center">
-<img width="100%" src="./assets/mission-control-banner-theme.svg" alt="Mission control"/>
+
+I DON’T JUST AUTOMATE TASKS.
+
+I DESIGN SYSTEMS THAT THINK, ACT & SCALE.
+
+I build at the intersection of intelligent automation,enterprise systems, and AI.
+<br>
+Transforming fragmented processes into digital experiences that are simpler, faster, and more reliable.
+
+<br>
+
+COMPLEXITY → CLARITY → DESIGN → AUTOMATION → INTELLIGENCE → IMPACT
+
 </div>
+
+────────
+
+01 · SYSTEM MAP
+
+```mermaid
+flowchart LR
+    U["USER EXPERIENCE"] --> AI["AI + COPILOT"]
+    U --> APPS["BUSINESS APPS"]
+    AI --> KNOW["DATA + KNOWLEDGE"]
+    APPS --> KNOW
+    KNOW --> AUTO["AUTOMATION"]
+    KNOW --> INT["APIs + INTEGRATION"]
+    AUTO --> OPS["MONITORING + GOVERNANCE"]
+    INT --> OPS
+    OPS --> IMPACT["BUSINESS IMPACT"]
+```
+
+<div align="center">
+
+Users shouldn’t have to understand the architecture. They should feel the result.
+
+</div>
+
 
 <br>
 
