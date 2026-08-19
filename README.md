@@ -124,7 +124,7 @@ Built and supported automation solutions using **UiPath, Power Automate, APIs, S
 
 <div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
 
-## How I Work
+# How I Work
 
 I don’t just automate tasks.
 
@@ -178,9 +178,8 @@ Validate the result · Improve continuously
 </div>
 
 <br>
-**Build less. Think more. Ship better.**
 
-</div>
+**Build less. Think more. Ship better.**
 
 ---
 
