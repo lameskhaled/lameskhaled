@@ -1,0 +1,15 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" x2="1200"><stop stop-color="#040515"/><stop offset="1" stop-color="#15133E"/></linearGradient>
+<linearGradient id="g" x1="0" x2="1"><stop stop-color="#5638D6"/><stop offset=".55" stop-color="#8A4CFF"/><stop offset="1" stop-color="#D765FF"/></linearGradient>
+<pattern id="stars" width="100" height="75" patternUnits="userSpaceOnUse"><circle cx="18" cy="14" r="1" fill="#fff" opacity=".5"/><circle cx="71" cy="43" r=".9" fill="#5AE7FF" opacity=".4"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="26" fill="url(#bg)"/><rect width="1200" height="340" rx="26" fill="url(#stars)"/><rect x="12" y="12" width="1176" height="316" rx="22" fill="none" stroke="url(#g)" stroke-width="2"/>
+<text x="45" y="48" fill="#F7F6FA" font-family="Segoe UI,Arial" font-size="15" font-weight="700" letter-spacing="3">IMPACT SNAPSHOT</text>
+<g font-family="Segoe UI,Arial" text-anchor="middle">
+  <g transform="translate(42 88)"><rect width="255" height="210" rx="20" fill="#0B0A22" stroke="#5638D6"/><text x="127" y="73" fill="#8A4CFF" font-size="44" font-weight="800">150+</text><text x="127" y="105" fill="#F7F6FA" font-size="14" font-weight="700">SUPPORT TICKETS</text><text x="127" y="136" fill="#CFC8E8" font-size="12">delivered across managed</text><text x="127" y="155" fill="#CFC8E8" font-size="12">service environments</text></g>
+  <g transform="translate(323 88)"><rect width="255" height="210" rx="20" fill="#0B0A22" stroke="#8A4CFF"/><text x="127" y="73" fill="#8A4CFF" font-size="44" font-weight="800">100%</text><text x="127" y="105" fill="#F7F6FA" font-size="14" font-weight="700">SLA PERFORMANCE</text><text x="127" y="136" fill="#CFC8E8" font-size="12">consistency across sustained</text><text x="127" y="155" fill="#CFC8E8" font-size="12">client delivery</text></g>
+  <g transform="translate(604 88)"><rect width="255" height="210" rx="20" fill="#0B0A22" stroke="#D765FF"/><text x="127" y="73" fill="#8A4CFF" font-size="44" font-weight="800">9 DAYS</text><text x="127" y="105" fill="#F7F6FA" font-size="14" font-weight="700">MAJOR CR DELIVERY</text><text x="127" y="136" fill="#CFC8E8" font-size="12">from scoping to</text><text x="127" y="155" fill="#CFC8E8" font-size="12">production-ready outcome</text></g>
+  <g transform="translate(885 88)"><rect width="255" height="210" rx="20" fill="#0B0A22" stroke="#5AE7FF"/><text x="127" y="73" fill="#8A4CFF" font-size="44" font-weight="800">3+</text><text x="127" y="105" fill="#F7F6FA" font-size="14" font-weight="700">CORE PLATFORMS</text><text x="127" y="136" fill="#CFC8E8" font-size="12">Power Platform · UiPath</text><text x="127" y="155" fill="#CFC8E8" font-size="12">Copilot Studio</text></g>
+</g>
+</svg>

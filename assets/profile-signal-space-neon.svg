@@ -1,0 +1,11 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" x2="1200"><stop stop-color="#040515"/><stop offset="1" stop-color="#15133E"/></linearGradient></defs>
+<rect width="1200" height="250" rx="26" fill="url(#bg)"/><rect x="12" y="12" width="1176" height="226" rx="22" fill="none" stroke="#8A4CFF" stroke-opacity=".7"/>
+<text x="45" y="48" fill="#F7F6FA" font-family="Segoe UI,Arial" font-size="15" font-weight="700" letter-spacing="3">PROFILE SIGNAL</text>
+<g font-family="Segoe UI,Arial">
+  <text x="52" y="103" fill="#CFC8E8" font-size="13">ROLE</text><text x="52" y="130" fill="#F7F6FA" font-size="22" font-weight="700">Senior Intelligent Automation Consultant</text>
+  <text x="52" y="170" fill="#CFC8E8" font-size="13">FOCUS</text><text x="52" y="197" fill="#B67CDA" font-size="16">Intelligent Automation × Enterprise AI × Digital Systems</text>
+  <text x="770" y="103" fill="#CFC8E8" font-size="13">STACK</text><text x="770" y="130" fill="#F7F6FA" font-size="16">Power Platform · UiPath · Copilot Studio</text>
+  <text x="770" y="170" fill="#CFC8E8" font-size="13">LOCATION</text><text x="770" y="197" fill="#F7F6FA" font-size="16">Egypt · Open to global opportunities</text>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" x2="1200"><stop stop-color="#040515"/><stop offset="1" stop-color="#15133E"/></linearGradient></defs>
+<rect width="1200" height="330" rx="26" fill="url(#bg)"/><rect x="12" y="12" width="1176" height="306" rx="22" fill="none" stroke="#8A4CFF" stroke-opacity=".7"/>
+<text x="45" y="48" fill="#F7F6FA" font-family="Segoe UI,Arial" font-size="15" font-weight="700" letter-spacing="3">MISSION CONTROL</text>
+<g font-family="Segoe UI,Arial">
+ <g transform="translate(45 88)"><circle cx="16" cy="16" r="11" fill="#5638D6"/><text x="42" y="21" fill="#F7F6FA" font-size="17" font-weight="700">Automation First</text><text x="42" y="48" fill="#CFC8E8" font-size="12">Automate repetitive work so people can focus on what matters.</text></g>
+ <g transform="translate(45 150)"><circle cx="16" cy="16" r="11" fill="#8A4CFF"/><text x="42" y="21" fill="#F7F6FA" font-size="17" font-weight="700">AI + Human Intelligence</text><text x="42" y="48" fill="#CFC8E8" font-size="12">Blend AI capability with human insight to create stronger outcomes.</text></g>
+ <g transform="translate(45 212)"><circle cx="16" cy="16" r="11" fill="#D765FF"/><text x="42" y="21" fill="#F7F6FA" font-size="17" font-weight="700">Scalable &amp; Secure</text><text x="42" y="48" fill="#CFC8E8" font-size="12">Build solutions that scale with the business and protect what matters.</text></g>
+ <g transform="translate(640 88)"><circle cx="16" cy="16" r="11" fill="#5AE7FF"/><text x="42" y="21" fill="#F7F6FA" font-size="17" font-weight="700">Impact Driven</text><text x="42" y="48" fill="#CFC8E8" font-size="12">Measure success by value delivered, not by tool count.</text></g>
+ <g transform="translate(640 150)"><circle cx="16" cy="16" r="11" fill="#8A4CFF"/><text x="42" y="21" fill="#F7F6FA" font-size="17" font-weight="700">Business First</text><text x="42" y="48" fill="#CFC8E8" font-size="12">Start with the experience and outcome — then choose the technology.</text></g>
+ <g transform="translate(640 212)"><circle cx="16" cy="16" r="11" fill="#5638D6"/><text x="42" y="21" fill="#F7F6FA" font-size="17" font-weight="700">Own the Outcome</text><text x="42" y="48" fill="#CFC8E8" font-size="12">Scope, build, test, deploy, support and improve.</text></g>
+</g>
+</svg>
