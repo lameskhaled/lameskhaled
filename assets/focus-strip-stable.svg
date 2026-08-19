@@ -1,148 +1,160 @@
-<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="260" viewBox="0 0 900 260"
+     xmlns="http://www.w3.org/2000/svg">
 
 <defs>
 
-    <!-- Animated Enterprise Background -->
-    <linearGradient id="movingGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#080A1F"/>
-        <stop offset="35%" stop-color="#182253"/>
-        <stop offset="50%" stop-color="#27357D"/>
-        <stop offset="65%" stop-color="#182253"/>
-        <stop offset="100%" stop-color="#080A1F"/>
+    <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#5638D6"/>
+        <stop offset="50%" stop-color="#8A4CFF"/>
+        <stop offset="100%" stop-color="#5AE7FF"/>
     </linearGradient>
 
-    <!-- Light Sweep -->
-    <linearGradient id="shine" x1="0%" x2="100%">
-        <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-        <stop offset="50%" stop-color="#5AE7FF" stop-opacity="1"/>
-        <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
-    </linearGradient>
-
-    <!-- Soft Glows -->
-    <filter id="purpleGlow" x="-50%" y="-50%" width="200%" height="200%">
-        <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#8A4CFF"/>
-    </filter>
-
-    <filter id="pinkGlow" x="-50%" y="-50%" width="200%" height="200%">
-        <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#D765FF"/>
-    </filter>
-
-    <filter id="cyanGlow" x="-50%" y="-50%" width="200%" height="200%">
-        <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#5AE7FF"/>
+    <filter id="glow">
+        <feDropShadow dx="0" dy="0" stdDeviation="3"
+                      flood-color="#8A4CFF"
+                      flood-opacity="0.6"/>
     </filter>
 
     <style>
-        .label {
-            font-family: "Segoe UI", Arial, sans-serif;
-            font-size: 12px;
-            font-weight: 700;
-            fill: #F7F6FA;
-            text-anchor: middle;
+        .node-title{
+            fill:#F7F6FA;
+            font-family:Segoe UI,Arial,sans-serif;
+            font-size:13px;
+            font-weight:700;
+            text-anchor:middle;
         }
 
-        .box {
-            fill: #111833;
-            stroke-width: 1.5;
+        .node-sub{
+            fill:#B8C0D7;
+            font-family:Segoe UI,Arial,sans-serif;
+            font-size:10px;
+            text-anchor:middle;
         }
-
-        .automation { stroke: #5638D6; }
-        .ai { stroke: #8A4CFF; }
-        .digital { stroke: #D765FF; }
-        .systems { stroke: #5AE7FF; }
     </style>
 
 </defs>
 
 <!-- Background -->
-<rect width="900" height="100" rx="18" fill="#080A1F"/>
 
-<!-- Moving Ambient Layer -->
-<rect x="-300"
-      y="0"
-      width="1500"
-      height="100"
+<rect width="900"
+      height="260"
       rx="18"
-      fill="url(#movingGlow)"
-      opacity="0.35">
-    <animateTransform
-        attributeName="transform"
-        type="translate"
-        values="-150 0;150 0;-150 0"
-        dur="30s"
-        repeatCount="indefinite"/>
-</rect>
+      fill="#080A1F"
+      stroke="#28346E"/>
 
-<!-- Premium Sweep -->
-<rect x="-180"
-      y="0"
-      width="100"
-      height="100"
-      fill="url(#shine)"
-      opacity="0.06">
-    <animate
-        attributeName="x"
-        values="-180;980"
-        dur="16s"
-        repeatCount="indefinite"/>
-</rect>
+<!-- Connections -->
 
-<!-- Outer Border -->
-<rect x="1"
-      y="1"
-      width="898"
-      height="98"
-      rx="18"
-      fill="none"
-      stroke="#28346E"
-      stroke-width="1.2"/>
+<path
+    d="M280 130 C340 130,360 95,400 90"
+    fill="none"
+    stroke="url(#flow)"
+    stroke-width="2.5"
+    stroke-linecap="round"/>
 
-<!-- Capability Boxes -->
-<g>
+<path
+    d="M500 90 C560 95,585 130,620 130"
+    fill="none"
+    stroke="url(#flow)"
+    stroke-width="2.5"
+    stroke-linecap="round"/>
 
-    <!-- Intelligent Automation -->
-    <g transform="translate(30 27)" filter="url(#purpleGlow)">
-        <rect class="box automation"
-              width="180"
-              height="46"
-              rx="10"/>
-        <text class="label" x="90" y="29">
-            INTELLIGENT AUTOMATION
-        </text>
-    </g>
+<path
+    d="M450 135 C450 150,450 155,450 170"
+    fill="none"
+    stroke="url(#flow)"
+    stroke-width="2.5"
+    stroke-linecap="round"/>
 
-    <!-- Enterprise AI -->
-    <g transform="translate(235 27)" filter="url(#purpleGlow)">
-        <rect class="box ai"
-              width="165"
-              height="46"
-              rx="10"/>
-        <text class="label" x="82.5" y="29">
-            ENTERPRISE AI
-        </text>
-    </g>
+<!-- Center Node -->
 
-    <!-- Digital Systems -->
-    <g transform="translate(425 27)" filter="url(#pinkGlow)">
-        <rect class="box digital"
-              width="165"
-              height="46"
-              rx="10"/>
-        <text class="label" x="82.5" y="29">
-            DIGITAL SYSTEMS
-        </text>
-    </g>
-
-    <!-- Systems Thinking -->
-    <g transform="translate(615 27)" filter="url(#cyanGlow)">
-        <rect class="box systems"
-              width="220"
-              height="46"
-              rx="10"/>
-        <text class="label" x="110" y="29">
-            SYSTEMS THINKING
-        </text>
-    </g>
-
+<g filter="url(#glow)">
+    <circle cx="450"
+            cy="90"
+            r="52"
+            fill="#111833"
+            stroke="#8A4CFF"
+            stroke-width="2"/>
 </g>
+
+<text class="node-title"
+      x="450"
+      y="85">
+    ENTERPRISE AI
+</text>
+
+<text class="node-sub"
+      x="450"
+      y="105">
+    Copilot Studio
+</text>
+
+<!-- Left Node -->
+
+<g filter="url(#glow)">
+    <circle cx="220"
+            cy="130"
+            r="58"
+            fill="#111833"
+            stroke="#5638D6"
+            stroke-width="2"/>
+</g>
+
+<text class="node-title"
+      x="220"
+      y="125">
+    AUTOMATION
+</text>
+
+<text class="node-sub"
+      x="220"
+      y="145">
+    UiPath • Power Automate
+</text>
+
+<!-- Right Node -->
+
+<g filter="url(#glow)">
+    <circle cx="680"
+            cy="130"
+            r="58"
+            fill="#111833"
+            stroke="#D765FF"
+            stroke-width="2"/>
+</g>
+
+<text class="node-title"
+      x="680"
+      y="125">
+    DIGITAL SYSTEMS
+</text>
+
+<text class="node-sub"
+      x="680"
+      y="145">
+    Apps • Integrations
+</text>
+
+<!-- Bottom Node -->
+
+<g filter="url(#glow)">
+    <circle cx="450"
+            cy="200"
+            r="58"
+            fill="#111833"
+            stroke="#5AE7FF"
+            stroke-width="2"/>
+</g>
+
+<text class="node-title"
+      x="450"
+      y="195">
+    SYSTEMS THINKING
+</text>
+
+<text class="node-sub"
+      x="450"
+      y="215">
+    Strategy • Governance
+</text>
 
 </svg>
