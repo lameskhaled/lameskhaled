@@ -1,0 +1,40 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1200"><stop stop-color="#040515"/><stop offset="1" stop-color="#18144E"/></linearGradient>
+  <filter id="gl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)" stroke="#4636A3" stroke-opacity=".65"/>
+<text x="42" y="48" fill="#F7F6FA" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">IMPACT SNAPSHOT</text>
+
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <g transform="translate(40 95)">
+    <rect width="255" height="210" rx="18" fill="#0B0A20" stroke="#4636A3"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="3.6s" repeatCount="indefinite"/></rect>
+    <text x="127" y="68" fill="#F7F6FA" font-size="42" font-weight="800">150+</text>
+    <text x="127" y="102" fill="#B67CDA" font-size="13" font-weight="700">SERVICE TICKETS</text>
+    <text x="127" y="133" fill="#CEC7E6" font-size="12">delivery &amp; support ownership</text>
+  </g>
+  <g transform="translate(322 95)">
+    <rect width="255" height="210" rx="18" fill="#0B0A20" stroke="#7450CA"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="3.9s" begin=".5s" repeatCount="indefinite"/></rect>
+    <text x="127" y="68" fill="#F7F6FA" font-size="42" font-weight="800">100%</text>
+    <text x="127" y="102" fill="#B67CDA" font-size="13" font-weight="700">SLA PERFORMANCE</text>
+    <text x="127" y="133" fill="#CEC7E6" font-size="12">sustained service reliability</text>
+  </g>
+  <g transform="translate(604 95)">
+    <rect width="255" height="210" rx="18" fill="#0B0A20" stroke="#B67CDA"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="4.2s" begin="1s" repeatCount="indefinite"/></rect>
+    <text x="127" y="68" fill="#F7F6FA" font-size="42" font-weight="800">9 DAYS</text>
+    <text x="127" y="102" fill="#B67CDA" font-size="13" font-weight="700">MAJOR CR DELIVERY</text>
+    <text x="127" y="133" fill="#CEC7E6" font-size="12">scope to production outcome</text>
+  </g>
+  <g transform="translate(886 95)">
+    <rect width="255" height="210" rx="18" fill="#0B0A20" stroke="#65DFFF"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="4.5s" begin="1.5s" repeatCount="indefinite"/></rect>
+    <text x="127" y="68" fill="#F7F6FA" font-size="42" font-weight="800">3+</text>
+    <text x="127" y="102" fill="#B67CDA" font-size="13" font-weight="700">CORE PLATFORMS</text>
+    <text x="127" y="133" fill="#CEC7E6" font-size="12">Power Platform · UiPath · AI</text>
+  </g>
+</g>
+
+<circle cx="40" cy="330" r="4" fill="#65DFFF" filter="url(#gl)">
+  <animate attributeName="cx" values="40;1160;40" dur="6s" repeatCount="indefinite"/>
+</circle>
+<line x1="40" y1="330" x2="1160" y2="330" stroke="#7450CA" stroke-opacity=".45"/>
+</svg>
