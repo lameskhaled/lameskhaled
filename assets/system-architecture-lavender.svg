@@ -1,0 +1,60 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420">
+    <stop stop-color="#1B1230"/><stop offset="1" stop-color="#281741"/>
+  </linearGradient>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#AA7FFF"/><stop offset=".5" stop-color="#E6DBFF"/><stop offset="1" stop-color="#FFB0F9"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)" stroke="#59378A"/>
+<text x="40" y="46" fill="#E3D7FF" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">LIVE ARCHITECTURE // FLOW OF VALUE</text>
+<text x="40" y="72" fill="#C4B3E9" font-family="Consolas,monospace" font-size="12">intent → intelligence → context → automation → impact</text>
+
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <g transform="translate(60 145)">
+    <rect width="170" height="135" rx="20" fill="#2A1B45" stroke="#A374FF"/>
+    <text x="85" y="48" fill="#FFF7FF" font-size="18" font-weight="700">USER</text>
+    <text x="85" y="77" fill="#E4D8FF" font-size="13">experience</text>
+    <text x="85" y="102" fill="#FFB0F9" font-size="12">intent</text>
+  </g>
+  <g transform="translate(315 145)">
+    <rect width="145" height="135" rx="20" fill="#2A1B45" stroke="#C8AEFF"/>
+    <text x="72" y="48" fill="#FFF7FF" font-size="18" font-weight="700">AI</text>
+    <text x="72" y="77" fill="#E4D8FF" font-size="13">copilot</text>
+    <text x="72" y="102" fill="#C8AEFF" font-size="12">reason</text>
+  </g>
+  <g transform="translate(545 145)">
+    <rect width="145" height="135" rx="20" fill="#2A1B45" stroke="#E6DBFF"/>
+    <text x="72" y="48" fill="#FFF7FF" font-size="18" font-weight="700">DATA</text>
+    <text x="72" y="77" fill="#E4D8FF" font-size="13">knowledge</text>
+    <text x="72" y="102" fill="#E6DBFF" font-size="12">context</text>
+  </g>
+  <g transform="translate(775 145)">
+    <rect width="145" height="135" rx="20" fill="#2A1B45" stroke="#FFB0F9"/>
+    <text x="72" y="48" fill="#FFF7FF" font-size="18" font-weight="700">AUTO</text>
+    <text x="72" y="77" fill="#E4D8FF" font-size="13">orchestrate</text>
+    <text x="72" y="102" fill="#FFB0F9" font-size="12">action</text>
+  </g>
+  <g transform="translate(1000 165)">
+    <circle cx="58" cy="47" r="46" fill="#3A215D" stroke="#FFB0F9"/>
+    <text x="58" y="42" fill="#FFF7FF" font-size="15" font-weight="700">IMPACT</text>
+    <text x="58" y="62" fill="#E6DBFF" font-size="11">LIVE</text>
+  </g>
+</g>
+
+<g stroke="url(#g)" stroke-width="3" fill="none" filter="url(#glow)" stroke-linecap="round">
+  <path d="M230 212H315" stroke-dasharray="12 18"><animate attributeName="stroke-dashoffset" values="0;-60" dur="1.9s" repeatCount="indefinite"/></path>
+  <path d="M460 212H545" stroke-dasharray="12 18"><animate attributeName="stroke-dashoffset" values="0;-60" dur="2.1s" repeatCount="indefinite"/></path>
+  <path d="M690 212H775" stroke-dasharray="12 18"><animate attributeName="stroke-dashoffset" values="0;-60" dur="2.3s" repeatCount="indefinite"/></path>
+  <path d="M920 212H1000" stroke-dasharray="12 18"><animate attributeName="stroke-dashoffset" values="0;-60" dur="2.5s" repeatCount="indefinite"/></path>
+</g>
+
+<g fill="#FFB0F9" filter="url(#glow)">
+  <circle cx="230" cy="212" r="4"><animate attributeName="cx" values="230;315" dur="1.9s" repeatCount="indefinite"/></circle>
+  <circle cx="460" cy="212" r="4"><animate attributeName="cx" values="460;545" dur="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="690" cy="212" r="4"><animate attributeName="cx" values="690;775" dur="2.3s" repeatCount="indefinite"/></circle>
+  <circle cx="920" cy="212" r="4"><animate attributeName="cx" values="920;1000" dur="2.5s" repeatCount="indefinite"/></circle>
+</g>
+</svg>

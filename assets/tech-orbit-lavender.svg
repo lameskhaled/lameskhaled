@@ -1,0 +1,30 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340"><stop stop-color="#1A122D"/><stop offset="1" stop-color="#2C1947"/></linearGradient>
+</defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)" stroke="#5A3788"/>
+<g transform="translate(600 170)">
+ <circle r="64" fill="#3A215D" stroke="#A374FF" stroke-width="2"/>
+ <circle r="108" fill="none" stroke="#6A4397" stroke-width="2" stroke-dasharray="4 12"/>
+ <circle r="145" fill="none" stroke="#6A4397" stroke-width="2" stroke-dasharray="4 12"/>
+ <text text-anchor="middle" y="-6" fill="#FFF7FF" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">AUTOMATION</text>
+ <text text-anchor="middle" y="19" fill="#E6DBFF" font-family="Consolas,monospace" font-size="12">CORE</text>
+
+ <g>
+   <g transform="translate(108 0)"><circle r="29" fill="#4B2C74" stroke="#C8AEFF"/><text text-anchor="middle" y="4" fill="#FFF7FF" font-family="Segoe UI,Arial,sans-serif" font-size="11">UiPath</text></g>
+   <g transform="translate(-108 0)"><circle r="29" fill="#4B2C74" stroke="#C8AEFF"/><text text-anchor="middle" y="4" fill="#FFF7FF" font-family="Segoe UI,Arial,sans-serif" font-size="10">Power Apps</text></g>
+   <g transform="translate(0 108)"><circle r="29" fill="#4B2C74" stroke="#E6DBFF"/><text text-anchor="middle" y="4" fill="#FFF7FF" font-family="Segoe UI,Arial,sans-serif" font-size="10">Dataverse</text></g>
+   <g transform="translate(0 -108)"><circle r="29" fill="#4B2C74" stroke="#E6DBFF"/><text text-anchor="middle" y="4" fill="#FFF7FF" font-family="Segoe UI,Arial,sans-serif" font-size="11">Copilot</text></g>
+   <animateTransform attributeName="transform" type="rotate" values="0;360" dur="28s" repeatCount="indefinite"/>
+ </g>
+
+ <g>
+   <g transform="translate(145 0)"><circle r="24" fill="#5B328B" stroke="#FFB0F9"/><text text-anchor="middle" y="4" fill="#FFF7FF" font-family="Segoe UI,Arial,sans-serif" font-size="10">Azure</text></g>
+   <g transform="translate(-145 0)"><circle r="24" fill="#5B328B" stroke="#FFB0F9"/><text text-anchor="middle" y="4" fill="#FFF7FF" font-family="Segoe UI,Arial,sans-serif" font-size="10">AWS</text></g>
+   <g transform="translate(0 145)"><circle r="24" fill="#5B328B" stroke="#FFB0F9"/><text text-anchor="middle" y="4" fill="#FFF7FF" font-family="Segoe UI,Arial,sans-serif" font-size="10">APIs</text></g>
+   <g transform="translate(0 -145)"><circle r="24" fill="#5B328B" stroke="#FFB0F9"/><text text-anchor="middle" y="4" fill="#FFF7FF" font-family="Segoe UI,Arial,sans-serif" font-size="11">AI</text></g>
+   <animateTransform attributeName="transform" type="rotate" values="360;0" dur="36s" repeatCount="indefinite"/>
+ </g>
+</g>
+<text x="45" y="46" fill="#E6DBFF" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">TECH ORBIT // LIGHTER CYBER THEME</text>
+</svg>
