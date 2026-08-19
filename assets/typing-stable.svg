@@ -12,9 +12,12 @@
 </style>
 <rect width="950" height="48" fill="transparent"/>
 <g text-anchor="middle">
-  <text class="l1" x="475" y="30">I design systems that think, act &amp; scale.</text>
-  <text class="l2" x="475" y="30">AI × Automation × Enterprise Systems.</text>
-  <text class="l3" x="475" y="30">Power Platform · UiPath · Copilot Studio · Cloud.</text>
-  <text class="l4" x="475" y="30">Turning messy processes into clear, intelligent experiences.</text>
+  <text class="l1" x="475" y="30">Build what you wish existed.</text>
+  <text class="l2" x="475" y="30">Stay curious. Stay relentless.</text>
+  <text class="l3" x="475" y="30">Think beyond what is. Build what could be.</text>
+  <text class="l4" x="475" y="30">Turn ideas into impact.</text>
+  <text class="l5" x="475" y="30">Make complexity feel simple.</text>
+  <text class="l6" x="475" y="30">The future belongs to those who build it.</text>
 </g>
+
 </svg>
