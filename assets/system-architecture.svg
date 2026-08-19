@@ -5,10 +5,6 @@
  <filter id="gl"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="1200" height="430" rx="22" fill="url(#bg)" stroke="#2A2044"/>
-<g font-family="Segoe UI,Arial,sans-serif">
- <text x="42" y="48" fill="#C7B8FF" font-size="15" font-weight="700" letter-spacing="2">LIVE SYSTEM ARCHITECTURE</text>
- <text x="42" y="75" fill="#7A7391" font-size="12">signals move through the stack → intelligence → action → impact</text>
-</g>
 <g fill="none" stroke="#3B2A61" stroke-width="2">
  <path d="M150 210H340"/>
  <path d="M460 210H620"/>
