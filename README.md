@@ -64,25 +64,21 @@ I turn complex processes into systems that are **clearer, faster, more reliable 
 
 <br>
 
+
+
 <div align="center">
-
-### AI Assistants
-Copilot Studio · Knowledge experiences · Conversational workflows · Enterprise AI
-
-### Intelligent Automation
-UiPath · Power Automate · Process orchestration · Exception handling
-
-### Enterprise Applications
-Power Apps · Dataverse · Business rules · Workflow-led digital experiences
-
-### Reliable Operations
-Monitoring · Alerting · Production support · Governance · Continuous improvement
-
+<img width="100%" src="./assets/mission-control-banner-theme.svg" alt="Animated system map"/>
 </div>
+
 
 <br>
 
 <div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
+
+## System Architecture
+<div align="center">
+<img width="100%" src="./assets/system-architecture.svg" alt="Animated system architecture"/>
+</div>
 
 ## Featured Work
 
@@ -106,7 +102,7 @@ Built and supported automation solutions using **UiPath, Power Automate, APIs, S
 
 <div align="center">
 
-<img width="100%" src="./assets/tech-orbit-banner-theme.svg" alt="Animated technology orbit"/>
+<img width="100%" src="./assets/tech-orbit.svg" alt="Animated technology orbit"/>
 
 <br><br>
 
@@ -241,13 +237,7 @@ I like hard problems, high standards and building things that make people say:
 
 <br>
 
-<a href="https://lameskhaled.github.io/Lamees-khaled-Portifolio/">
-  <img width="220" src="./assets/portfolio-button-stable.svg" alt="Explore the full portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/lames-khaled">
-  <img width="220" src="./assets/linkedin-button-stable.svg" alt="Let's connect"/>
-</a>
+
 
 <br><br>
 
