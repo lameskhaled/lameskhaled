@@ -2,12 +2,11 @@
 
 <img width="100%" src="./assets/Banner.PNG" alt="Lamees Khaled — Intelligent Automation × Enterprise AI × Digital Systems"/>
 
-<br>
-
 <img width="100%" src="./assets/typing-stable.svg" alt="Animated introduction"/>
 
 <br>
 
+<br>
 
 
 <p align="center">
