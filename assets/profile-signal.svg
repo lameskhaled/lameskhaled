@@ -1,0 +1,28 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1200"><stop stop-color="#07040D"/><stop offset=".5" stop-color="#10091B"/><stop offset="1" stop-color="#07040D"/></linearGradient>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#6D28D9"/><stop offset=".5" stop-color="#C7B8FF"/><stop offset="1" stop-color="#E879F9"/></linearGradient>
+  <filter id="gl"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="270" rx="22" fill="url(#bg)" stroke="#2A2044"/>
+<text x="42" y="48" fill="#C7B8FF" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">PROFILE SIGNAL // LIVE SYSTEM BOARD</text>
+<g font-family="Consolas,monospace">
+  <text x="64" y="112" fill="#7A7391" font-size="12">README</text>
+  <text x="64" y="142" fill="#34D399" font-size="18">ONLINE</text>
+  <text x="328" y="112" fill="#7A7391" font-size="12">AUTOMATIONS</text>
+  <text x="328" y="142" fill="#E879F9" font-size="18">ACTIVE</text>
+  <text x="610" y="112" fill="#7A7391" font-size="12">BUILD TRAIL</text>
+  <text x="610" y="142" fill="#C7B8FF" font-size="18">STREAMING</text>
+  <text x="902" y="112" fill="#7A7391" font-size="12">MODE</text>
+  <text x="902" y="142" fill="#F7F5FF" font-size="18">CREATE</text>
+</g>
+<g stroke="#2A2044" stroke-width="2">
+  <line x1="42" y1="182" x2="1158" y2="182"/>
+</g>
+<path d="M42 220 C120 198,160 242,236 218 S355 198,420 221 S540 244,614 211 S730 191,796 220 S918 245,1158 205" fill="none" stroke="url(#g)" stroke-width="3" filter="url(#gl)" stroke-dasharray="12 16">
+  <animate attributeName="stroke-dashoffset" values="0;-112" dur="4s" repeatCount="indefinite"/>
+</path>
+<circle cx="42" cy="220" r="5" fill="#E879F9" filter="url(#gl)">
+  <animate attributeName="cx" values="42;1158" dur="5s" repeatCount="indefinite"/>
+</circle>
+</svg>
