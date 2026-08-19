@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050308,35:0A0712,70:6D28D9,100:E879F9&text=LAMES%20KHALED&fontSize=54&fontColor=F7F5FF&fontAlignY=36&desc=INTELLIGENT%20AUTOMATION%20%C3%97%20ENTERPRISE%20AI%20%C3%97%20DIGITAL%20SYSTEMS&descAlignY=56&descSize=15&animation=fadeIn"/>
 
