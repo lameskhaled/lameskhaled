@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050308,42:0A0712,72:6D28D9,100:E879F9&text=LAMES%20KHALED&fontSize=54&fontColor=F7F5FF&fontAlignY=36&desc=INTELLIGENT%20AUTOMATION%20%C3%97%20ENTERPRISE%20AI%20%C3%97%20DIGITAL%20SYSTEMS&descAlignY=56&descSize=15&animation=fadeIn"/>
+<img width="100%" src="./assets/hero-terminal.svg" alt="Lames Khaled — Intelligent Automation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=850&color=C7B8FF&center=true&vCenter=true&repeat=true&width=920&height=48&lines=I+turn+complexity+into+systems+that+feel+simple.;Power+Platform+%C3%97+UiPath+%C3%97+Copilot+Studio.;Automation+is+the+craft.+Reliability+is+the+standard.;From+%22What+if%3F%22+to+%22It%27s+live.%22" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2400&pause=700&color=C7B8FF&center=true&vCenter=true&repeat=true&width=920&height=48&lines=I+turn+complexity+into+systems+that+feel+simple.;AI+%C3%97+Automation+%C3%97+Enterprise+Systems.;I+design.+I+automate.+I+elevate.;From+%22What+if%3F%22+to+%22It%27s+live.%22" alt="Animated intro"/>
 
 <br>
 
@@ -16,13 +16,17 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=lameskhaled&label=PROFILE%20SIGNAL&color=7c3aed&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-34D399?style=flat-square"/>
+<img src="https://img.shields.io/badge/BUILD_MODE-ACTIVE-E879F9?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=lameskhaled&label=PROFILE%20SIGNAL&color=7c3aed&style=flat-square"/>
 
 </div>
 
 ────────
 
 <div align="center">
+
+> WHOAMI
 
 I DON’T JUST AUTOMATE TASKS.
 
@@ -38,36 +42,42 @@ COMPLEXITY → CLARITY → DESIGN → AUTOMATION → INTELLIGENCE → IMPACT
 
 ────────
 
-01 · SYSTEM MAP
+01 // LIVE ARCHITECTURE
 
-```mermaid
-flowchart LR
-    U["USER EXPERIENCE"] --> AI["AI + COPILOT"]
-    U --> APPS["BUSINESS APPS"]
-    AI --> KNOW["DATA + KNOWLEDGE"]
-    APPS --> KNOW
-    KNOW --> AUTO["AUTOMATION"]
-    KNOW --> INT["APIs + INTEGRATION"]
-    AUTO --> OPS["MONITORING + GOVERNANCE"]
-    INT --> OPS
-    OPS --> IMPACT["BUSINESS IMPACT"]
-```
+<div align="center">
+<img width="100%" src="./assets/system-architecture.svg" alt="Animated system architecture"/>
+</div>
+
+────────
+
+02 // THE STACK IS ALIVE
+
+<div align="center">
+<img width="100%" src="./assets/tech-orbit.svg" alt="Animated technology orbit"/>
+</div>
+
+<br>
 
 <div align="center">
 
-Users shouldn’t have to understand the architecture. They should feel the result.
+<img src="https://skillicons.dev/icons?i=azure,aws,js,ts,react,nodejs,python,git,github&theme=dark" alt="Engineering stack"/>
+
+<br><br>
+
+Power Platform · Power Apps · Power Automate · Dataverse · Copilot Studio
+UiPath · Azure OpenAI · REST APIs · SAP · Cloud · Monitoring
 
 </div>
 
 ────────
 
-02 · WHAT I BUILD
+03 // MISSION CONTROL
 
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
 
-✦ AI
+🤖 AI
 
 ASSISTANTS
 
@@ -86,7 +96,7 @@ AUTOMATION
 UiPath
 Power Automate
 RPA
-Process Orchestration
+Orchestration
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -103,7 +113,7 @@ Digital Workflows
 </td>
 <td width="25%" align="center" valign="top">
 
-⌁ RELIABLE
+🛰️ RELIABLE
 
 OPERATIONS
 
@@ -118,64 +128,101 @@ Governance
 
 ────────
 
-03 · TOOLBOX
+04 // ARCADE MODE 🎮
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,aws,js,ts,react,nodejs,python,git,github&theme=dark" alt="Core engineering tools"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/POWER_APPS-111111?style=for-the-badge&logo=powerapps&logoColor=C7B8FF"/>
-<img src="https://img.shields.io/badge/POWER_AUTOMATE-111111?style=for-the-badge&logo=powerautomate&logoColor=C7B8FF"/>
-<img src="https://img.shields.io/badge/COPILOT_STUDIO-111111?style=for-the-badge&logo=microsoft&logoColor=C7B8FF"/>
-<img src="https://img.shields.io/badge/DATAVERSE-111111?style=for-the-badge&logo=microsoft&logoColor=C7B8FF"/>
-<img src="https://img.shields.io/badge/UIPATH-111111?style=for-the-badge&logo=uipath&logoColor=C7B8FF"/>
-
-<br><br>
-
-REST APIs · SAP · Azure OpenAI · Cloud · Monitoring · Enterprise Integration
-
-</div>
-
-────────
-
-04 · GITHUB SIGNAL
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lameskhaled&show_icons=true&hide_border=true&bg_color=0A0712&title_color=C7B8FF&icon_color=E879F9&text_color=B9B2CC&ring_color=8B5CF6" alt="GitHub stats"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lameskhaled&layout=compact&hide_border=true&bg_color=0A0712&title_color=C7B8FF&text_color=B9B2CC" alt="Top languages"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lameskhaled&bg_color=0A0712&color=B9B2CC&line=8B5CF6&point=E879F9&area=true&area_color=6D28D9&hide_border=true&custom_title=THE%20BUILD%20TRAIL" alt="Contribution activity graph"/>
-
-</div>
-
-────────
-
-05 · THE BUILD TRAIL — LIVE
-
-<div align="center">
+PAC-MAN // EATING THE BUILD TRAIL
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/pacman-contribution-graph.svg">
+</picture>
+
+<br>
+
+BREAKOUT // BREAK THE GRID
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/breakout-contribution-graph.svg">
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/breakout-contribution-graph.svg">
+</picture>
+
+<br>
+
+GALAGA // SHOOT THE CONTRIBUTIONS
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/galaga-contribution-graph.svg">
 </picture>
 
 </div>
 
 ────────
 
-06 · HOW I THINK
+05 // SNAKE PROTOCOL 🐍
 
 <div align="center">
 
-UNDERSTAND → QUESTION → SIMPLIFY → DESIGN → BUILD → TEST → SCALE
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+────────
+
+06 // GITHUB SIGNAL
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lameskhaled&show_icons=true&hide_border=true&bg_color=0A0712&title_color=C7B8FF&icon_color=E879F9&text_color=B9B2CC&ring_color=8B5CF6" alt="GitHub stats"/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lameskhaled&layout=compact&hide_border=true&bg_color=0A0712&title_color=C7B8FF&text_color=B9B2CC" alt="Top languages"/>
 
 <br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lameskhaled&bg_color=0A0712&color=B9B2CC&line=8B5CF6&point=E879F9&area=true&area_color=6D28D9&hide_border=true&custom_title=THE%20BUILD%20TRAIL" alt="GitHub activity graph"/>
+
+</div>
+
+────────
+
+07 // HOW MY BRAIN RUNS
+
+```text
+INPUT: messy problem
+
+        ↓
+
+OBSERVE
+        ↓
+QUESTION
+        ↓
+SIMPLIFY
+        ↓
+DESIGN
+        ↓
+BUILD
+        ↓
+BREAK IT
+        ↓
+FIX IT BETTER
+        ↓
+SHIP
+        ↓
+LEARN
+
+OUTPUT: something people actually want to use
+```
+
+<div align="center">
 
 BUSINESS FIRST. TECHNOLOGY SECOND.
 
@@ -189,67 +236,35 @@ I begin with:
 
 ────────
 
-07 · THE PERSON BEHIND THE SYSTEMS
+08 // CURRENT OPERATING SYSTEM
 
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-
-CURIOUS
-
-I need to know why something works.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-CREATIVE
-
-There is rarely only one way to build it.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-QUALITY-DRIVEN
-
-Working isn’t enough. It should be reliable.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-BUSINESS-MINDED
-
-The best technology creates real value.
-
-</td>
-</tr>
-</table>
+```yaml
+name: Lames Khaled
+mode: build
+specialty:
+  - intelligent automation
+  - enterprise AI
+  - digital systems
+default_state: curious
+quality_gate: "working isn't enough"
+error_handling: "investigate → understand → improve"
+mission: "make complexity feel simple"
+```
 
 ────────
 
 <div align="center">
 
-THIS IS ONLY THE DASHBOARD.
-
-THE REAL STORY IS IN THE WORK.
+<img width="100%" src="./assets/footer-signal.svg" alt="Build something that shouldn't exist yet"/>
 
 <br>
 
 <a href="https://lameskhaled.github.io/Lamees-khaled-Portifolio/">
-  <img src="https://img.shields.io/badge/%E2%9C%A6_EXPLORE_THE_FULL_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore full portfolio"/>
+  <img src="https://img.shields.io/badge/%E2%9C%A6_EXPLORE_THE_FULL_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore portfolio"/>
 </a>
 
 <br><br>
 
-Architecture · Experience · Builds · Systems · Credentials
-
-<br><br>
-
-LAMES KHALED
-
 INTELLIGENT AUTOMATION × ENTERPRISE AI × DIGITAL SYSTEMS
 
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050308,50:6D28D9,100:E879F9"/>
-
-</div> 
+</div>
