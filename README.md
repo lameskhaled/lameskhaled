@@ -1,27 +1,24 @@
 <div align="center">
 
-<img width="100%" src="./assets/neon-banner.png" alt="Lames Khaled — Intelligent Automation × Enterprise AI × Digital Systems"/>
+<img width="100%" src="./assets/neon-banner.png" alt="Lamees Khaled — Intelligent Automation × Enterprise AI × Digital Systems"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2300&pause=650&color=B67CDA&center=true&vCenter=true&repeat=true&width=950&height=48&lines=I+design+systems+that+think%2C+act+%26+scale.;AI+%C3%97+Automation+%C3%97+Enterprise+Systems.;Power+Platform+%C2%B7+UiPath+%C2%B7+Copilot+Studio+%C2%B7+Cloud.;Turning+messy+processes+into+clear%2C+intelligent+experiences." alt="Animated introduction"/>
+<img width="100%" src="./assets/typing-stable.svg" alt="Animated introduction"/>
 
 <br>
 
 <a href="https://lameskhaled.github.io/Lamees-khaled-Portifolio/">
-  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-4636A3?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img width="220" src="./assets/portfolio-button-stable.svg" alt="View portfolio"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/lames-khaled">
-  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-18144E?style=for-the-badge&logo=linkedin&logoColor=F7F6FA"/>
+  <img width="220" src="./assets/linkedin-button-stable.svg" alt="Connect on LinkedIn"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/INTELLIGENT_AUTOMATION-282179?style=flat-square"/>
-<img src="https://img.shields.io/badge/ENTERPRISE_AI-4636A3?style=flat-square"/>
-<img src="https://img.shields.io/badge/DIGITAL_SYSTEMS-7450CA?style=flat-square"/>
-<img src="https://img.shields.io/badge/SYSTEMS_THINKING-B67CDA?style=flat-square"/>
+<img width="900" src="./assets/focus-strip-stable.svg" alt="Focus areas"/>
 
 </div>
 
@@ -39,9 +36,7 @@ I turn complex processes into systems that are **clearer, faster, more reliable 
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:18144E,45:4636A3,75:7450CA,100:B67CDA&section=header"/>
-</p>
+<div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
 
 ## Impact
 
@@ -59,9 +54,7 @@ I turn complex processes into systems that are **clearer, faster, more reliable 
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:18144E,45:4636A3,75:7450CA,100:B67CDA&section=header"/>
-</p>
+<div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
 
 ## What I Build
 
@@ -89,9 +82,7 @@ Monitoring · Alerting · Production support · Governance · Continuous improve
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:18144E,45:4636A3,75:7450CA,100:B67CDA&section=header"/>
-</p>
+<div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
 
 ## Featured Work
 
@@ -109,9 +100,7 @@ Built and supported automation solutions using **UiPath, Power Automate, APIs, S
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:18144E,45:4636A3,75:7450CA,100:B67CDA&section=header"/>
-</p>
+<div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
 
 ## Tech Ecosystem
 
@@ -121,7 +110,7 @@ Built and supported automation solutions using **UiPath, Power Automate, APIs, S
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=azure,aws,js,ts,react,nodejs,python,git,github&theme=dark" alt="Engineering stack"/>
+<img width="1000" src="./assets/tech-stack-stable.svg" alt="Engineering stack"/>
 
 <br><br>
 
@@ -133,9 +122,7 @@ Built and supported automation solutions using **UiPath, Power Automate, APIs, S
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:18144E,45:4636A3,75:7450CA,100:B67CDA&section=header"/>
-</p>
+<div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
 
 ## How I Work
 
@@ -172,9 +159,7 @@ The tool is never the point.
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:18144E,45:4636A3,75:7450CA,100:B67CDA&section=header"/>
-</p>
+<div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
 
 ## Arcade
 
@@ -212,9 +197,7 @@ The tool is never the point.
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:18144E,45:4636A3,75:7450CA,100:B67CDA&section=header"/>
-</p>
+<div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
 
 ## Contribution Trail
 
@@ -230,9 +213,7 @@ The tool is never the point.
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:18144E,45:4636A3,75:7450CA,100:B67CDA&section=header"/>
-</p>
+<div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
 
 ## What I Care About
 
@@ -261,11 +242,11 @@ I like hard problems, high standards and building things that make people say:
 <br>
 
 <a href="https://lameskhaled.github.io/Lamees-khaled-Portifolio/">
-  <img src="https://img.shields.io/badge/EXPLORE_THE_FULL_PORTFOLIO-7450CA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img width="220" src="./assets/portfolio-button-stable.svg" alt="Explore the full portfolio"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/lames-khaled">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-4636A3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img width="220" src="./assets/linkedin-button-stable.svg" alt="Let's connect"/>
 </a>
 
 <br><br>
