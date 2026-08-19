@@ -22,35 +22,34 @@
 
 </div>
 
-────────
+---
 
 <div align="center">
 
-> WHOAMI
+### `> WHOAMI`
 
-I DON’T JUST AUTOMATE TASKS.
+# I DON'T JUST AUTOMATE TASKS.
+## I DESIGN SYSTEMS THAT THINK, ACT & SCALE.
 
-I DESIGN SYSTEMS THAT THINK, ACT & SCALE.
-
-I build at the intersection of intelligent automation, enterprise systems and AI — turning fragmented processes into digital experiences that are simpler, faster and more reliable.
+I build at the intersection of **intelligent automation, enterprise systems and AI** — turning fragmented processes into digital experiences that are simpler, faster and more reliable.
 
 <br>
 
-COMPLEXITY → CLARITY → DESIGN → AUTOMATION → INTELLIGENCE → IMPACT
+`COMPLEXITY` → `CLARITY` → `DESIGN` → `AUTOMATION` → `INTELLIGENCE` → `IMPACT`
 
 </div>
 
-────────
+---
 
-01 // LIVE ARCHITECTURE
+## 01 // LIVE ARCHITECTURE
 
 <div align="center">
 <img width="100%" src="./assets/system-architecture.svg" alt="Animated system architecture"/>
 </div>
 
-────────
+---
 
-02 // THE STACK IS ALIVE
+## 02 // THE STACK IS ALIVE
 
 <div align="center">
 <img width="100%" src="./assets/tech-orbit.svg" alt="Animated technology orbit"/>
@@ -64,75 +63,71 @@ COMPLEXITY → CLARITY → DESIGN → AUTOMATION → INTELLIGENCE → IMPACT
 
 <br><br>
 
-Power Platform · Power Apps · Power Automate · Dataverse · Copilot Studio
-UiPath · Azure OpenAI · REST APIs · SAP · Cloud · Monitoring
+`Power Platform` · `Power Apps` · `Power Automate` · `Dataverse` · `Copilot Studio`  
+`UiPath` · `Azure OpenAI` · `REST APIs` · `SAP` · `Cloud` · `Monitoring`
 
 </div>
 
-────────
+---
 
-03 // MISSION CONTROL
+## 03 // MISSION CONTROL
 
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
 
-🤖 AI
+### 🤖 AI
+**ASSISTANTS**
 
-ASSISTANTS
-
-Copilot Studio
-Knowledge Systems
-Conversational AI
+Copilot Studio  
+Knowledge Systems  
+Conversational AI  
 RAG Experiences
 
 </td>
 <td width="25%" align="center" valign="top">
 
-⚡ INTELLIGENT
+### ⚡ INTELLIGENT
+**AUTOMATION**
 
-AUTOMATION
-
-UiPath
-Power Automate
-RPA
+UiPath  
+Power Automate  
+RPA  
 Orchestration
 
 </td>
 <td width="25%" align="center" valign="top">
 
-◇ ENTERPRISE
+### ◇ ENTERPRISE
+**APPLICATIONS**
 
-APPLICATIONS
-
-Power Apps
-Dataverse
-Business Rules
+Power Apps  
+Dataverse  
+Business Rules  
 Digital Workflows
 
 </td>
 <td width="25%" align="center" valign="top">
 
-🛰️ RELIABLE
+### 🛰️ RELIABLE
+**OPERATIONS**
 
-OPERATIONS
-
-Monitoring
-Alerting
-Exception Handling
+Monitoring  
+Alerting  
+Exception Handling  
 Governance
 
 </td>
 </tr>
 </table>
 
-────────
+---
 
-04 // ARCADE MODE 🎮
+## 04 // ARCADE MODE 🎮
 
 <div align="center">
 
-PAC-MAN // EATING THE BUILD TRAIL
+### `PAC-MAN // EATING THE BUILD TRAIL`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/pacman-contribution-graph-dark.svg">
@@ -142,7 +137,7 @@ PAC-MAN // EATING THE BUILD TRAIL
 
 <br>
 
-BREAKOUT // BREAK THE GRID
+### `BREAKOUT // BREAK THE GRID`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/breakout-contribution-graph-dark.svg">
@@ -152,7 +147,7 @@ BREAKOUT // BREAK THE GRID
 
 <br>
 
-GALAGA // SHOOT THE CONTRIBUTIONS
+### `GALAGA // SHOOT THE CONTRIBUTIONS`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/galaga-contribution-graph-dark.svg">
@@ -162,9 +157,9 @@ GALAGA // SHOOT THE CONTRIBUTIONS
 
 </div>
 
-────────
+---
 
-05 // SNAKE PROTOCOL 🐍
+## 05 // SNAKE PROTOCOL 🐍
 
 <div align="center">
 
@@ -176,9 +171,9 @@ GALAGA // SHOOT THE CONTRIBUTIONS
 
 </div>
 
-────────
+---
 
-06 // GITHUB SIGNAL
+## 06 // GITHUB SIGNAL
 
 <div align="center">
 
@@ -192,9 +187,9 @@ GALAGA // SHOOT THE CONTRIBUTIONS
 
 </div>
 
-────────
+---
 
-07 // HOW MY BRAIN RUNS
+## 07 // HOW MY BRAIN RUNS
 
 ```text
 INPUT: messy problem
@@ -224,19 +219,19 @@ OUTPUT: something people actually want to use
 
 <div align="center">
 
-BUSINESS FIRST. TECHNOLOGY SECOND.
+### BUSINESS FIRST. TECHNOLOGY SECOND.
 
-I don’t begin with “What can this tool do?”
+I don't begin with **“What can this tool do?”**
 
 I begin with:
 
-“What should this experience feel like when we’re finished?”
+## “What should this experience feel like when we're finished?”
 
 </div>
 
-────────
+---
 
-08 // CURRENT OPERATING SYSTEM
+## 08 // CURRENT OPERATING SYSTEM
 
 ```yaml
 name: Lames Khaled
@@ -251,7 +246,7 @@ error_handling: "investigate → understand → improve"
 mission: "make complexity feel simple"
 ```
 
-────────
+---
 
 <div align="center">
 
@@ -265,6 +260,6 @@ mission: "make complexity feel simple"
 
 <br><br>
 
-INTELLIGENT AUTOMATION × ENTERPRISE AI × DIGITAL SYSTEMS
+`INTELLIGENT AUTOMATION × ENTERPRISE AI × DIGITAL SYSTEMS`
 
 </div>
