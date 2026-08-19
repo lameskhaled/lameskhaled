@@ -1,1 +1,47 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360"><stop stop-color="#050308"/><stop offset=".48" stop-color="#0A0712"/><stop offset="1" stop-color="#170B2B"/></linearGradient>
+  <linearGradient id="v" x1="260" y1="0" x2="940" y2="0"><stop stop-color="#6D28D9"/><stop offset=".5" stop-color="#C7B8FF"/><stop offset="1" stop-color="#E879F9"/></linearGradient>
+  <radialGradient id="orb"><stop stop-color="#8B5CF6" stop-opacity=".35"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#2A2044" stroke-width="1" opacity=".45"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1020" cy="70" r="230" fill="url(#orb)"><animate attributeName="cx" values="1020;940;1020" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="170" cy="310" r="180" fill="url(#orb)" opacity=".45"><animate attributeName="cy" values="310;250;310" dur="9s" repeatCount="indefinite"/></circle>
 
+<g fill="none" stroke-linecap="round">
+  <path d="M70 88H345L410 146H540" stroke="#8B5CF6" stroke-width="1.5" stroke-dasharray="4 10">
+    <animate attributeName="stroke-dashoffset" values="0;-70" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <path d="M1130 278H920L850 222H660" stroke="#E879F9" stroke-width="1.5" stroke-dasharray="4 10">
+    <animate attributeName="stroke-dashoffset" values="0;70" dur="5s" repeatCount="indefinite"/>
+  </path>
+</g>
+<g filter="url(#glow)">
+  <circle cx="70" cy="88" r="4" fill="#C7B8FF"/>
+  <circle cx="540" cy="146" r="4" fill="#8B5CF6"/>
+  <circle cx="1130" cy="278" r="4" fill="#E879F9"/>
+  <circle cx="660" cy="222" r="4" fill="#C7B8FF"/>
+</g>
+
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <text x="600" y="82" font-size="14" font-weight="600" letter-spacing="5" fill="#C7B8FF">SYSTEM ONLINE // INTELLIGENT AUTOMATION</text>
+  <text x="600" y="170" font-size="64" font-weight="800" letter-spacing="4" fill="#F7F5FF">LAMES KHALED</text>
+  <rect x="335" y="195" width="530" height="2" rx="1" fill="url(#v)">
+    <animate attributeName="x" values="335;395;335" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="530;410;530" dur="4.8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="238" font-size="18" letter-spacing="2" fill="#B9B2CC">AI × AUTOMATION × ENTERPRISE SYSTEMS</text>
+  <text x="600" y="278" font-size="14" font-weight="600" letter-spacing="2" fill="url(#v)">POWER PLATFORM · UIPATH · COPILOT STUDIO · CLOUD</text>
+</g>
+
+<g font-family="Consolas,monospace" font-size="12">
+  <text x="85" y="324" fill="#7A7391">boot.sequence</text>
+  <text x="190" y="324" fill="#34D399">OK</text>
+  <text x="930" y="324" fill="#7A7391">build.mode</text>
+  <text x="1010" y="324" fill="#E879F9">ACTIVE</text>
+  <rect x="1090" y="312" width="8" height="15" fill="#E879F9"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+</svg>

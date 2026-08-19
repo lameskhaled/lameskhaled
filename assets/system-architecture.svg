@@ -1,0 +1,44 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430"><stop stop-color="#08050F"/><stop offset="1" stop-color="#100A1D"/></linearGradient>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8B5CF6"/><stop offset="1" stop-color="#E879F9"/></linearGradient>
+ <filter id="gl"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="430" rx="22" fill="url(#bg)" stroke="#2A2044"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+ <text x="42" y="48" fill="#C7B8FF" font-size="15" font-weight="700" letter-spacing="2">LIVE SYSTEM ARCHITECTURE</text>
+ <text x="42" y="75" fill="#7A7391" font-size="12">signals move through the stack → intelligence → action → impact</text>
+</g>
+<g fill="none" stroke="#3B2A61" stroke-width="2">
+ <path d="M150 210H340"/>
+ <path d="M460 210H620"/>
+ <path d="M740 210H900"/>
+ <path d="M1020 210H1100"/>
+</g>
+<g fill="none" stroke="url(#g)" stroke-width="3" stroke-linecap="round" filter="url(#gl)">
+ <path d="M150 210H340" stroke-dasharray="12 22"><animate attributeName="stroke-dashoffset" values="0;-68" dur="2.4s" repeatCount="indefinite"/></path>
+ <path d="M460 210H620" stroke-dasharray="12 22"><animate attributeName="stroke-dashoffset" values="0;-68" dur="2.1s" repeatCount="indefinite"/></path>
+ <path d="M740 210H900" stroke-dasharray="12 22"><animate attributeName="stroke-dashoffset" values="0;-68" dur="1.9s" repeatCount="indefinite"/></path>
+ <path d="M1020 210H1100" stroke-dasharray="12 22"><animate attributeName="stroke-dashoffset" values="0;-68" dur="1.7s" repeatCount="indefinite"/></path>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+ <g transform="translate(70 145)"><rect width="160" height="130" rx="18" fill="#120B21" stroke="#6D28D9"/><text x="80" y="47" fill="#F7F5FF" font-size="17" font-weight="700">USER</text><text x="80" y="78" fill="#B9B2CC" font-size="13">Experience</text><text x="80" y="103" fill="#8B5CF6" font-size="12">intent · need</text></g>
+ <g transform="translate(340 145)"><rect width="120" height="130" rx="18" fill="#120B21" stroke="#8B5CF6"/><text x="60" y="47" fill="#F7F5FF" font-size="17" font-weight="700">AI</text><text x="60" y="78" fill="#B9B2CC" font-size="13">Copilot</text><text x="60" y="103" fill="#C7B8FF" font-size="12">reason</text></g>
+ <g transform="translate(620 145)"><rect width="120" height="130" rx="18" fill="#120B21" stroke="#C7B8FF"/><text x="60" y="47" fill="#F7F5FF" font-size="17" font-weight="700">DATA</text><text x="60" y="78" fill="#B9B2CC" font-size="13">Knowledge</text><text x="60" y="103" fill="#C7B8FF" font-size="12">context</text></g>
+ <g transform="translate(900 145)"><rect width="120" height="130" rx="18" fill="#120B21" stroke="#E879F9"/><text x="60" y="47" fill="#F7F5FF" font-size="17" font-weight="700">AUTO</text><text x="60" y="78" fill="#B9B2CC" font-size="13">Orchestrate</text><text x="60" y="103" fill="#E879F9" font-size="12">act</text></g>
+ <g transform="translate(1100 165)"><circle cx="38" cy="45" r="38" fill="#211039" stroke="#E879F9"/><text x="38" y="41" fill="#F7F5FF" font-size="14" font-weight="700">IMPACT</text><text x="38" y="61" fill="#C7B8FF" font-size="10">LIVE</text></g>
+</g>
+<g fill="#E879F9" filter="url(#gl)">
+ <circle cx="150" cy="210" r="4"><animate attributeName="cx" values="150;340" dur="2.4s" repeatCount="indefinite"/></circle>
+ <circle cx="460" cy="210" r="4"><animate attributeName="cx" values="460;620" dur="2.1s" repeatCount="indefinite"/></circle>
+ <circle cx="740" cy="210" r="4"><animate attributeName="cx" values="740;900" dur="1.9s" repeatCount="indefinite"/></circle>
+ <circle cx="1020" cy="210" r="4"><animate attributeName="cx" values="1020;1100" dur="1.7s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="Consolas,monospace" font-size="12" fill="#7A7391">
+ <text x="42" y="390">status: operational</text>
+ <text x="260" y="390">latency: optimized</text>
+ <text x="495" y="390">governance: enabled</text>
+ <text x="770" y="390">exceptions: handled</text>
+ <text x="1010" y="390" fill="#34D399">● healthy</text>
+</g>
+</svg>
