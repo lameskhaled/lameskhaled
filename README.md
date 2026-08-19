@@ -252,4 +252,4 @@ INTELLIGENT AUTOMATION × ENTERPRISE AI × DIGITAL SYSTEMS
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050308,50:6D28D9,100:E879F9"/>
 
-</div>
+</div> 
