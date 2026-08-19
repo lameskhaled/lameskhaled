@@ -129,61 +129,46 @@ Built and supported automation solutions using **UiPath, Power Automate, APIs, S
 I don’t just automate tasks.
 
 **I design systems that think, act, and scale.**
-<br>
 
-</div>
-
-────────
-
+---
 ## 01 · SYSTEM MAP
 
 <div align="center">
 
-```mermaid
-flowchart LR
-    U["USER EXPERIENCE"] --> AI["AI + COPILOT"]
-    U --> APPS["BUSINESS APPS"]
-    AI --> KNOW["DATA + KNOWLEDGE"]
-    APPS --> KNOW
-    KNOW --> AUTO["AUTOMATION"]
-    KNOW --> INT["APIs + INTEGRATION"]
-    AUTO --> OPS["MONITORING + GOVERNANCE"]
-    INT --> OPS
-    OPS --> IMPACT["BUSINESS IMPACT"]
-```
-
----
-<br>
-
 ### Users shouldn’t have to understand the architecture.
 ### **They should feel the result.**
+
 <br>
 
+```mermaid
+flowchart LR
+    U[USER EXPERIENCE] --> AI[AI + COPILOT]
+    U --> APPS[BUSINESS APPS]
+    AI --> KNOW[DATA + KNOWLEDGE]
+    APPS --> KNOW
+    KNOW --> AUTO[AUTOMATION]
+    KNOW --> INT[APIs + INTEGRATION]
+    AUTO --> OPS[MONITORING + GOVERNANCE]
+    INT --> OPS
+    OPS --> IMPACT[BUSINESS IMPACT]
+```
+  
 
+<br>
+
+</div>
+
+---
+## 02 · ENGINEERING MINDSET
+
+<div align="center">
+<br>
+  
 | 🔍 **THINK** | ⚙️ **BUILD** | 🚀 **DELIVER** |
 |:---:|:---:|:---:|
 | Understand the problem | Design the system | Create the outcome |
 | Simplify complexity | Build with intent | Deliver measurable impact |
 
-<br>
-
-**COMPLEXITY → CLARITY → DESIGN → AUTOMATION → INTELLIGENCE → IMPACT**
-
-</div>
-
----
-
-## 02 · ENGINEERING MINDSET
-
-
-
-<div align="center">
-
-### ⚙️ ENGINEERING MINDSET
-
-**THINK** · **DESIGN** · **BUILD** · **VALIDATE** · **EVOLVE**
-
-<br>
 
 <sub>
 Understand the problem · Simplify the complexity · Build with intent ·
@@ -192,8 +177,8 @@ Validate the result · Improve continuously
 
 </div>
 
-
-> **Build less. Think more. Ship better.**
+<br>
+**Build less. Think more. Ship better.**
 
 </div>
 
@@ -284,11 +269,9 @@ A completely unnecessary but highly important section.
 
 <div align="center">
 
-**Useful > flashy**  
-**Clear > complicated**  
-**Reliable > clever**  
-**Ownership > handoffs**  
-**Learning > ego**
+
+
+> **Useful > Flashy**  > **Clear > Complicated**  > **Reliable > Clever**  > **Ownership > Handoffs**  > **Learning > Ego**
 
 <br>
 
