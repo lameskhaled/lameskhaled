@@ -1,46 +1,255 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"><br>
-  <br> I'm Lames Khaled Abdelrazik, React js Web Developer and RPA Developer :computer:<br>
-  <br>
-    <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Coder GIF" width="1000">
- </abc>
-</h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    </p>
+<div align="center">
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050308,42:0A0712,72:6D28D9,100:E879F9&text=LAMES%20KHALED&fontSize=54&fontColor=F7F5FF&fontAlignY=36&desc=INTELLIGENT%20AUTOMATION%20%C3%97%20ENTERPRISE%20AI%20%C3%97%20DIGITAL%20SYSTEMS&descAlignY=56&descSize=15&animation=fadeIn"/>
 
-- :computer: I just finished working on MERN Stack 
-- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Bazaar Project Lead Intern at Information and Communcation Technology (ITI) Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-- :woman_student: Early Detection of Covid-19 Using Medical Imaging Analysis and Machine Learning
-- :scroll: Certificate: MEARN stack from Information and Communcation Technology (ITI) Certificate
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=850&color=C7B8FF&center=true&vCenter=true&repeat=true&width=920&height=48&lines=I+turn+complexity+into+systems+that+feel+simple.;Power+Platform+%C3%97+UiPath+%C3%97+Copilot+Studio.;Automation+is+the+craft.+Reliability+is+the+standard.;From+%22What+if%3F%22+to+%22It%27s+live.%22" alt="Animated introduction"/>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-lameskhaled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lames-khaled)](https://www.linkedin.com/in/lames-khaled)
+<a href="https://lameskhaled.github.io/Lamees-khaled-Portifolio/">
+  <img src="https://img.shields.io/badge/%E2%9C%A6_ENTER_THE_PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/lames-khaled">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=C7B8FF" alt="LinkedIn"/>
+</a>
 
+<br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lameskhaled&theme=dark)](https://git.io/streak-stats)
+<img src="https://komarev.com/ghpvc/?username=lameskhaled&label=PROFILE%20SIGNAL&color=7c3aed&style=flat-square" alt="Profile views"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lameskhaled&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+────────
+
+<div align="center">
+
+I DON’T JUST AUTOMATE TASKS.
+
+I DESIGN SYSTEMS THAT THINK, ACT & SCALE.
+
+I build at the intersection of intelligent automation, enterprise systems and AI — turning fragmented processes into digital experiences that are simpler, faster and more reliable.
+
+<br>
+
+COMPLEXITY → CLARITY → DESIGN → AUTOMATION → INTELLIGENCE → IMPACT
+
+</div>
+
+────────
+
+01 · SYSTEM MAP
+
+```mermaid
+flowchart LR
+    U["USER EXPERIENCE"] --> AI["AI + COPILOT"]
+    U --> APPS["BUSINESS APPS"]
+    AI --> KNOW["DATA + KNOWLEDGE"]
+    APPS --> KNOW
+    KNOW --> AUTO["AUTOMATION"]
+    KNOW --> INT["APIs + INTEGRATION"]
+    AUTO --> OPS["MONITORING + GOVERNANCE"]
+    INT --> OPS
+    OPS --> IMPACT["BUSINESS IMPACT"]
+```
+
+<div align="center">
+
+Users shouldn’t have to understand the architecture. They should feel the result.
+
+</div>
+
+────────
+
+02 · WHAT I BUILD
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+✦ AI
+
+ASSISTANTS
+
+Copilot Studio
+Knowledge Systems
+Conversational AI
+RAG Experiences
+
+</td>
+<td width="25%" align="center" valign="top">
+
+⚡ INTELLIGENT
+
+AUTOMATION
+
+UiPath
+Power Automate
+RPA
+Process Orchestration
+
+</td>
+<td width="25%" align="center" valign="top">
+
+◇ ENTERPRISE
+
+APPLICATIONS
+
+Power Apps
+Dataverse
+Business Rules
+Digital Workflows
+
+</td>
+<td width="25%" align="center" valign="top">
+
+⌁ RELIABLE
+
+OPERATIONS
+
+Monitoring
+Alerting
+Exception Handling
+Governance
+
+</td>
+</tr>
+</table>
+
+────────
+
+03 · TOOLBOX
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,aws,js,ts,react,nodejs,python,git,github&theme=dark" alt="Core engineering tools"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/POWER_APPS-111111?style=for-the-badge&logo=powerapps&logoColor=C7B8FF"/>
+<img src="https://img.shields.io/badge/POWER_AUTOMATE-111111?style=for-the-badge&logo=powerautomate&logoColor=C7B8FF"/>
+<img src="https://img.shields.io/badge/COPILOT_STUDIO-111111?style=for-the-badge&logo=microsoft&logoColor=C7B8FF"/>
+<img src="https://img.shields.io/badge/DATAVERSE-111111?style=for-the-badge&logo=microsoft&logoColor=C7B8FF"/>
+<img src="https://img.shields.io/badge/UIPATH-111111?style=for-the-badge&logo=uipath&logoColor=C7B8FF"/>
+
+<br><br>
+
+REST APIs · SAP · Azure OpenAI · Cloud · Monitoring · Enterprise Integration
+
+</div>
+
+────────
+
+04 · GITHUB SIGNAL
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lameskhaled&show_icons=true&hide_border=true&bg_color=0A0712&title_color=C7B8FF&icon_color=E879F9&text_color=B9B2CC&ring_color=8B5CF6" alt="GitHub stats"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lameskhaled&layout=compact&hide_border=true&bg_color=0A0712&title_color=C7B8FF&text_color=B9B2CC" alt="Top languages"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lameskhaled&bg_color=0A0712&color=B9B2CC&line=8B5CF6&point=E879F9&area=true&area_color=6D28D9&hide_border=true&custom_title=THE%20BUILD%20TRAIL" alt="Contribution activity graph"/>
+
+</div>
+
+────────
+
+05 · THE BUILD TRAIL — LIVE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/lameskhaled/lameskhaled/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+────────
+
+06 · HOW I THINK
+
+<div align="center">
+
+UNDERSTAND → QUESTION → SIMPLIFY → DESIGN → BUILD → TEST → SCALE
+
+<br><br>
+
+BUSINESS FIRST. TECHNOLOGY SECOND.
+
+I don’t begin with “What can this tool do?”
+
+I begin with:
+
+“What should this experience feel like when we’re finished?”
+
+</div>
+
+────────
+
+07 · THE PERSON BEHIND THE SYSTEMS
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+CURIOUS
+
+I need to know why something works.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+CREATIVE
+
+There is rarely only one way to build it.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+QUALITY-DRIVEN
+
+Working isn’t enough. It should be reliable.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+BUSINESS-MINDED
+
+The best technology creates real value.
+
+</td>
+</tr>
+</table>
+
+────────
+
+<div align="center">
+
+THIS IS ONLY THE DASHBOARD.
+
+THE REAL STORY IS IN THE WORK.
+
+<br>
+
+<a href="https://lameskhaled.github.io/Lamees-khaled-Portifolio/">
+  <img src="https://img.shields.io/badge/%E2%9C%A6_EXPLORE_THE_FULL_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore full portfolio"/>
+</a>
+
+<br><br>
+
+Architecture · Experience · Builds · Systems · Credentials
+
+<br><br>
+
+LAMES KHALED
+
+INTELLIGENT AUTOMATION × ENTERPRISE AI × DIGITAL SYSTEMS
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050308,50:6D28D9,100:E879F9"/>
+
+</div>
