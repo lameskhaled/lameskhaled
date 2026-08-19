@@ -1,23 +1,67 @@
 <svg width="950" height="48" viewBox="0 0 950 48" xmlns="http://www.w3.org/2000/svg">
+
 <style>
-  text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 18px; fill: #B67CDA; }
-  .l1 { animation: a1 12s infinite; }
-  .l2 { animation: a2 12s infinite; }
-  .l3 { animation: a3 12s infinite; }
-  .l4 { animation: a4 12s infinite; }
-  @keyframes a1 {0%,22%{opacity:1}25%,100%{opacity:0}}
-  @keyframes a2 {0%,24%{opacity:0}27%,47%{opacity:1}50%,100%{opacity:0}}
-  @keyframes a3 {0%,49%{opacity:0}52%,72%{opacity:1}75%,100%{opacity:0}}
-  @keyframes a4 {0%,74%{opacity:0}77%,97%{opacity:1}100%{opacity:0}}
+text {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 18px;
+  fill: #B67CDA;
+}
+
+.l1 { animation: a1 18s infinite; }
+.l2 { animation: a2 18s infinite; }
+.l3 { animation: a3 18s infinite; }
+.l4 { animation: a4 18s infinite; }
+.l5 { animation: a5 18s infinite; }
+.l6 { animation: a6 18s infinite; }
+
+@keyframes a1 {
+  0%,14% { opacity:1 }
+  17%,100% { opacity:0 }
+}
+
+@keyframes a2 {
+  0%,16% { opacity:0 }
+  19%,30% { opacity:1 }
+  33%,100% { opacity:0 }
+}
+
+@keyframes a3 {
+  0%,32% { opacity:0 }
+  35%,47% { opacity:1 }
+  50%,100% { opacity:0 }
+}
+
+@keyframes a4 {
+  0%,49% { opacity:0 }
+  52%,64% { opacity:1 }
+  67%,100% { opacity:0 }
+}
+
+@keyframes a5 {
+  0%,66% { opacity:0 }
+  69%,81% { opacity:1 }
+  84%,100% { opacity:0 }
+}
+
+@keyframes a6 {
+  0%,83% { opacity:0 }
+  86%,98% { opacity:1 }
+  100% { opacity:0 }
+}
+
 </style>
+
 <rect width="950" height="48" fill="transparent"/>
+
 <g text-anchor="middle">
+
   <text class="l1" x="475" y="30">Build what you wish existed.</text>
   <text class="l2" x="475" y="30">Stay curious. Stay relentless.</text>
   <text class="l3" x="475" y="30">Think beyond what is. Build what could be.</text>
   <text class="l4" x="475" y="30">Turn ideas into impact.</text>
   <text class="l5" x="475" y="30">Make complexity feel simple.</text>
   <text class="l6" x="475" y="30">The future belongs to those who build it.</text>
+
 </g>
 
 </svg>
