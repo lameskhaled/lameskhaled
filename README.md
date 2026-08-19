@@ -126,24 +126,18 @@ Built and supported automation solutions using **UiPath, Power Automate, APIs, S
 
 ## How I Work
 
+I don’t just automate tasks.
 
-I DON’T JUST AUTOMATE TASKS.
-
-I DESIGN SYSTEMS THAT THINK, ACT & SCALE.
-
-I build at the intersection of intelligent automation,enterprise systems, and AI.
+**I design systems that think, act, and scale.**
 <br>
-Transforming fragmented processes into digital experiences that are simpler, faster, and more reliable.
-
-<br>
-
-COMPLEXITY → CLARITY → DESIGN → AUTOMATION → INTELLIGENCE → IMPACT
 
 </div>
 
 ────────
 
-01 · SYSTEM MAP
+## 01 · SYSTEM MAP
+
+<div align="center">
 
 ```mermaid
 flowchart LR
@@ -158,47 +152,79 @@ flowchart LR
     OPS --> IMPACT["BUSINESS IMPACT"]
 ```
 
-<div align="center">
+---
 
-Users shouldn’t have to understand the architecture. They should feel the result.
+### Users shouldn’t have to understand the architecture.
+### **They should feel the result.**
+
+<br>
+
+| 🔍 **THINK** | ⚙️ **BUILD** | 🚀 **DELIVER** |
+|:---:|:---:|:---:|
+| Understand the problem | Design the system | Create the outcome |
+| Simplify complexity | Build with intent | Deliver measurable impact |
+
+<br>
+
+**COMPLEXITY → CLARITY → DESIGN → AUTOMATION → INTELLIGENCE → IMPACT**
 
 </div>
 
+---
+
+## 02 · ENGINEERING MINDSET
+
+<div align="center">
+
+### ⚙️ ENGINEERING MINDSET
+
+**THINK** · **DESIGN** · **BUILD** · **VALIDATE** · **EVOLVE**
+
+<br>
+
+<sub>
+Understand the problem · Simplify the complexity · Build with intent ·
+Validate the result · Improve continuously
+</sub>
+<br>
+
+
+> **Build less. Think more. Ship better.**
+
+</div>
+
+---
+
+## 03 · BUSINESS FIRST. TECHNOLOGY SECOND.
+
+### The tool is never the point.
+### **The outcome is.**
 
 <br>
 
 <div align="center">
 
-**Understand the real problem**  
-↓  
-**Simplify the experience**  
-↓  
-**Design the system**  
-↓  
-**Build intelligently**  
-↓  
-**Test hard**  
-↓  
-**Ship with confidence**  
-↓  
-**Learn and improve**
-
-<br>
-
-### Business first. Technology second.
-
-The tool is never the point.  
-**The outcome is.**
+| **01 · PROBLEM** | **02 · SOLUTION** | **03 · SYSTEM** | **04 · IMPACT** |
+|:---:|:---:|:---:|:---:|
+| Understand what matters | Simplify the approach | Build for scale | Measure the outcome |
 
 </div>
 
 <br>
+
+I start with the problem, design around the user, and use technology to create
+**simpler, faster, and more reliable outcomes.**
+
+---
 
 <div align="center"><img width="100%" src="./assets/divider-stable.svg"/></div>
 
-## Arcade
+## 🎮 Gaming & Side Quests
 
-<div align="center">
+<div align="center" style="background-color:#111827; padding:30px; border-radius:12px;">
+
+A completely unnecessary but highly important section.
+
 
 ### PAC-MAN
 
