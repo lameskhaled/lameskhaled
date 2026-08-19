@@ -1,7 +1,11 @@
-<svg width="900" height="260" viewBox="0 0 900 260"
-     xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
 
 <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#080A1F"/>
+        <stop offset="100%" stop-color="#141B45"/>
+    </linearGradient>
 
     <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#5638D6"/>
@@ -9,26 +13,25 @@
         <stop offset="100%" stop-color="#5AE7FF"/>
     </linearGradient>
 
-    <filter id="glow">
-        <feDropShadow dx="0" dy="0" stdDeviation="3"
-                      flood-color="#8A4CFF"
-                      flood-opacity="0.6"/>
+    <filter id="softGlow">
+        <feDropShadow dx="0" dy="0" stdDeviation="2"
+            flood-color="#8A4CFF"
+            flood-opacity="0.4"/>
     </filter>
 
     <style>
-        .node-title{
-            fill:#F7F6FA;
-            font-family:Segoe UI,Arial,sans-serif;
-            font-size:13px;
-            font-weight:700;
-            text-anchor:middle;
+        .node {
+            fill: #111833;
+            stroke-width: 1.5;
+            rx: 10;
         }
 
-        .node-sub{
-            fill:#B8C0D7;
-            font-family:Segoe UI,Arial,sans-serif;
-            font-size:10px;
-            text-anchor:middle;
+        .label {
+            font-family: Segoe UI, Arial, sans-serif;
+            font-size: 12px;
+            font-weight: 700;
+            fill: #F7F6FA;
+            text-anchor: middle;
         }
     </style>
 
@@ -37,124 +40,141 @@
 <!-- Background -->
 
 <rect width="900"
-      height="260"
-      rx="18"
-      fill="#080A1F"
+      height="120"
+      rx="16"
+      fill="url(#bg)"
       stroke="#28346E"/>
 
-<!-- Connections -->
+<!-- Smooth Connections -->
 
 <path
-    d="M280 130 C340 130,360 95,400 90"
+    d="M200 60 C220 60, 230 45, 250 45"
     fill="none"
     stroke="url(#flow)"
-    stroke-width="2.5"
+    stroke-width="2"
     stroke-linecap="round"/>
 
 <path
-    d="M500 90 C560 95,585 130,620 130"
+    d="M420 45 C450 45, 460 75, 480 75"
     fill="none"
     stroke="url(#flow)"
-    stroke-width="2.5"
+    stroke-width="2"
     stroke-linecap="round"/>
 
 <path
-    d="M450 135 C450 150,450 155,450 170"
+    d="M650 75 C670 75, 680 60, 700 60"
     fill="none"
     stroke="url(#flow)"
-    stroke-width="2.5"
+    stroke-width="2"
     stroke-linecap="round"/>
 
-<!-- Center Node -->
+<!-- Animated Flow -->
 
-<g filter="url(#glow)">
-    <circle cx="450"
-            cy="90"
-            r="52"
-            fill="#111833"
-            stroke="#8A4CFF"
-            stroke-width="2"/>
+<path
+    d="M200 60 C220 60, 230 45, 250 45"
+    fill="none"
+    stroke="#8A4CFF"
+    stroke-width="3"
+    stroke-dasharray="6 12"
+    opacity=".8">
+
+    <animate
+        attributeName="stroke-dashoffset"
+        values="0;-36"
+        dur="3s"
+        repeatCount="indefinite"/>
+</path>
+
+<path
+    d="M420 45 C450 45, 460 75, 480 75"
+    fill="none"
+    stroke="#D765FF"
+    stroke-width="3"
+    stroke-dasharray="6 12"
+    opacity=".8">
+
+    <animate
+        attributeName="stroke-dashoffset"
+        values="0;-36"
+        dur="3s"
+        repeatCount="indefinite"/>
+</path>
+
+<path
+    d="M650 75 C670 75, 680 60, 700 60"
+    fill="none"
+    stroke="#5AE7FF"
+    stroke-width="3"
+    stroke-dasharray="6 12"
+    opacity=".8">
+
+    <animate
+        attributeName="stroke-dashoffset"
+        values="0;-36"
+        dur="3s"
+        repeatCount="indefinite"/>
+</path>
+
+<!-- Capability Cards -->
+
+<g filter="url(#softGlow)">
+
+    <rect x="30"
+          y="37"
+          width="170"
+          height="46"
+          rx="10"
+          fill="#111833"
+          stroke="#5638D6"/>
+
+    <text x="115"
+          y="65"
+          class="label">
+        AUTOMATION
+    </text>
+
+    <rect x="250"
+          y="22"
+          width="170"
+          height="46"
+          rx="10"
+          fill="#111833"
+          stroke="#8A4CFF"/>
+
+    <text x="335"
+          y="50"
+          class="label">
+        ENTERPRISE AI
+    </text>
+
+    <rect x="480"
+          y="52"
+          width="170"
+          height="46"
+          rx="10"
+          fill="#111833"
+          stroke="#D765FF"/>
+
+    <text x="565"
+          y="80"
+          class="label">
+        DIGITAL SYSTEMS
+    </text>
+
+    <rect x="700"
+          y="37"
+          width="170"
+          height="46"
+          rx="10"
+          fill="#111833"
+          stroke="#5AE7FF"/>
+
+    <text x="785"
+          y="65"
+          class="label">
+        SYSTEMS THINKING
+    </text>
+
 </g>
-
-<text class="node-title"
-      x="450"
-      y="85">
-    ENTERPRISE AI
-</text>
-
-<text class="node-sub"
-      x="450"
-      y="105">
-    Copilot Studio
-</text>
-
-<!-- Left Node -->
-
-<g filter="url(#glow)">
-    <circle cx="220"
-            cy="130"
-            r="58"
-            fill="#111833"
-            stroke="#5638D6"
-            stroke-width="2"/>
-</g>
-
-<text class="node-title"
-      x="220"
-      y="125">
-    AUTOMATION
-</text>
-
-<text class="node-sub"
-      x="220"
-      y="145">
-    UiPath • Power Automate
-</text>
-
-<!-- Right Node -->
-
-<g filter="url(#glow)">
-    <circle cx="680"
-            cy="130"
-            r="58"
-            fill="#111833"
-            stroke="#D765FF"
-            stroke-width="2"/>
-</g>
-
-<text class="node-title"
-      x="680"
-      y="125">
-    DIGITAL SYSTEMS
-</text>
-
-<text class="node-sub"
-      x="680"
-      y="145">
-    Apps • Integrations
-</text>
-
-<!-- Bottom Node -->
-
-<g filter="url(#glow)">
-    <circle cx="450"
-            cy="200"
-            r="58"
-            fill="#111833"
-            stroke="#5AE7FF"
-            stroke-width="2"/>
-</g>
-
-<text class="node-title"
-      x="450"
-      y="195">
-    SYSTEMS THINKING
-</text>
-
-<text class="node-sub"
-      x="450"
-      y="215">
-    Strategy • Governance
-</text>
 
 </svg>
