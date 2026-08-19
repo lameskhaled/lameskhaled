@@ -4,8 +4,7 @@
   <linearGradient id="bar" x1="0" x2="1"><stop stop-color="#282179"/><stop offset=".45" stop-color="#4636A3"/><stop offset=".78" stop-color="#7450CA"/><stop offset="1" stop-color="#B67CDA"/></linearGradient>
 </defs>
 <rect width="1200" height="420" rx="26" fill="url(#bg)" stroke="#4636A3" stroke-opacity=".7"/>
-<text x="44" y="50" fill="#F7F6FA" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">MISSION CONTROL // WHAT I BUILD</text>
-<text x="44" y="76" fill="#B67CDA" font-family="Consolas,monospace" font-size="12">four capability zones · one operating system</text>
+
 
 <g font-family="Segoe UI,Arial,sans-serif">
   <g transform="translate(42 112)">
