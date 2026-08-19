@@ -1,0 +1,14 @@
+<svg width="1000" height="88" viewBox="0 0 1000 88" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="88" rx="16" fill="#0B0A20" stroke="#282179"/>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">
+  <g transform="translate(25 22)"><rect width="95" height="42" rx="10" fill="#15133E" stroke="#4636A3"/><text x="47.5" y="26" fill="#F7F6FA">Azure</text></g>
+  <g transform="translate(132 22)"><rect width="95" height="42" rx="10" fill="#15133E" stroke="#4636A3"/><text x="47.5" y="26" fill="#F7F6FA">AWS</text></g>
+  <g transform="translate(239 22)"><rect width="95" height="42" rx="10" fill="#15133E" stroke="#7450CA"/><text x="47.5" y="26" fill="#F7F6FA">JavaScript</text></g>
+  <g transform="translate(346 22)"><rect width="95" height="42" rx="10" fill="#15133E" stroke="#7450CA"/><text x="47.5" y="26" fill="#F7F6FA">TypeScript</text></g>
+  <g transform="translate(453 22)"><rect width="95" height="42" rx="10" fill="#15133E" stroke="#B67CDA"/><text x="47.5" y="26" fill="#F7F6FA">React</text></g>
+  <g transform="translate(560 22)"><rect width="95" height="42" rx="10" fill="#15133E" stroke="#B67CDA"/><text x="47.5" y="26" fill="#F7F6FA">Node.js</text></g>
+  <g transform="translate(667 22)"><rect width="95" height="42" rx="10" fill="#15133E" stroke="#4636A3"/><text x="47.5" y="26" fill="#F7F6FA">Python</text></g>
+  <g transform="translate(774 22)"><rect width="95" height="42" rx="10" fill="#15133E" stroke="#7450CA"/><text x="47.5" y="26" fill="#F7F6FA">Git</text></g>
+  <g transform="translate(881 22)"><rect width="95" height="42" rx="10" fill="#15133E" stroke="#B67CDA"/><text x="47.5" y="26" fill="#F7F6FA">GitHub</text></g>
+</g>
+</svg>

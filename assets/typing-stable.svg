@@ -1,0 +1,20 @@
+<svg width="950" height="48" viewBox="0 0 950 48" xmlns="http://www.w3.org/2000/svg">
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 18px; fill: #B67CDA; }
+  .l1 { animation: a1 12s infinite; }
+  .l2 { animation: a2 12s infinite; }
+  .l3 { animation: a3 12s infinite; }
+  .l4 { animation: a4 12s infinite; }
+  @keyframes a1 {0%,22%{opacity:1}25%,100%{opacity:0}}
+  @keyframes a2 {0%,24%{opacity:0}27%,47%{opacity:1}50%,100%{opacity:0}}
+  @keyframes a3 {0%,49%{opacity:0}52%,72%{opacity:1}75%,100%{opacity:0}}
+  @keyframes a4 {0%,74%{opacity:0}77%,97%{opacity:1}100%{opacity:0}}
+</style>
+<rect width="950" height="48" fill="transparent"/>
+<g text-anchor="middle">
+  <text class="l1" x="475" y="30">I design systems that think, act &amp; scale.</text>
+  <text class="l2" x="475" y="30">AI × Automation × Enterprise Systems.</text>
+  <text class="l3" x="475" y="30">Power Platform · UiPath · Copilot Studio · Cloud.</text>
+  <text class="l4" x="475" y="30">Turning messy processes into clear, intelligent experiences.</text>
+</g>
+</svg>
