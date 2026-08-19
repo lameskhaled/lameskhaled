@@ -1,0 +1,19 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1200"><stop stop-color="#040515"/><stop offset="1" stop-color="#18144E"/></linearGradient>
+  <linearGradient id="wave" x1="0" x2="1"><stop stop-color="#282179"/><stop offset=".4" stop-color="#4636A3"/><stop offset=".75" stop-color="#7450CA"/><stop offset="1" stop-color="#B67CDA"/></linearGradient>
+  <filter id="gl"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="260" rx="22" fill="url(#bg)" stroke="#4636A3" stroke-opacity=".7"/>
+<text x="42" y="46" fill="#F7F6FA" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">PROFILE SIGNAL // LIVE BOARD</text>
+<g font-family="Consolas,monospace">
+  <text x="70" y="110" fill="#B67CDA" font-size="12">README</text><text x="70" y="138" fill="#F7F6FA" font-size="18">ONLINE</text>
+  <text x="345" y="110" fill="#B67CDA" font-size="12">AUTOMATIONS</text><text x="345" y="138" fill="#7450CA" font-size="18">ACTIVE</text>
+  <text x="640" y="110" fill="#B67CDA" font-size="12">ARCADE</text><text x="640" y="138" fill="#F7F6FA" font-size="18">LIVE</text>
+  <text x="915" y="110" fill="#B67CDA" font-size="12">MODE</text><text x="915" y="138" fill="#F7F6FA" font-size="18">CREATE</text>
+</g>
+<line x1="42" y1="176" x2="1158" y2="176" stroke="#4636A3" stroke-opacity=".5" stroke-width="2"/>
+<path d="M42 212 C125 185,170 235,250 208 S375 191,455 215 S580 235,660 205 S785 190,865 213 S1000 235,1158 198" fill="none" stroke="url(#wave)" stroke-width="4" filter="url(#gl)" stroke-dasharray="14 18">
+  <animate attributeName="stroke-dashoffset" values="0;-120" dur="4s" repeatCount="indefinite"/>
+</path>
+</svg>
